@@ -1,0 +1,10 @@
+# Ignore Python virtual environments
+fastapi-venv
+.venv/
+
+# Ignore local environment variables and secrets
+.env
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
