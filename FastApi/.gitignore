@@ -6,5 +6,8 @@ fastapi-venv
 .env
 
 # Ignore compiled Python files
-*.pyc
+# Byte-compiled / optimized / DLL files
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
